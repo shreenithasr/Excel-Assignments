@@ -32,7 +32,8 @@ This repository showcases my practical assignments and projects completed as par
 ### Excel Capstone Project – AI-Powered Healthcare Data Insights and Dashboarding
 ### Dashboard Preview
 
-![Healthcare Dashboard](screenshots/Healthcare_Dashboard.png)
+![Healthcare Dashboard](./Healthcare_Dashboard.png)
+
 **File:** `Excel Capstone Project AI powered Healthcare Data Insights and Dashboarding.xlsx`
 
 **Project Overview:**
